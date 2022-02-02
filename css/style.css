@@ -1,0 +1,48 @@
+.titulo{
+    padding: 20px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    width: 90%;
+    margin: 15px auto;
+
+    
+}
+h1{
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+}
+.botone{
+    display: inline;
+}
+
+th{
+    width: 80px;
+    padding: 5px;
+    
+}
+.table-content{
+    width: 500px;
+    margin: auto;
+
+}
+input{
+    width: 100%;
+}
+.btnEncriptar{
+    width: 50%;
+}
+.txsencriptados{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.primeraColumna{
+    width: 120px;
+}
+.labelResultado{
+    color: blue;
+}
+label{
+    font-weight: bold;
+    font-size: medium;
+}
